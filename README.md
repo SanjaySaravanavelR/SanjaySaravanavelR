@@ -1,63 +1,162 @@
-# Hi, I'm Sanjay Saravanavel R
+# Hi, I'm Sanjay Saravanavel R 👋
 
-Mechanical Engineering student at the College of Engineering, Guindy (Anna University) with interests in Mechanical Design, Product Development, FEA, CFD, and Automotive Systems.
+### Mechanical Design Engineer | CAD Designer | FEA & CFD Enthusiast
+
+Mechanical Engineering student at the College of Engineering, Guindy (Anna University) with experience in product development, mechanical design, CFD, thermal analysis, and engineering validation. Passionate about transforming engineering concepts into practical and manufacturable solutions through simulation-driven design and continuous improvement.
+
+---
+
+## About Me
+
+🎓 B.E. Mechanical Engineering (2023–2027)
+
+🏫 College of Engineering, Guindy (Anna University)
+
+📊 CGPA: 7.96
+
+📍 Chennai, India
+
+### Areas of Interest
+
+- Mechanical Design
+- Product Development
+- CAD Modelling
+- Finite Element Analysis (FEA)
+- Computational Fluid Dynamics (CFD)
+- Thermal Management
+- Automotive Systems
+
+---
 
 ## Technical Skills
 
-### CAD
-- SolidWorks
-- Fusion 360
-- PTC Creo
+### CAD & Product Design
 
-### Simulation
+- SolidWorks
+- PTC Creo
+- Fusion 360
+- Engineering Drawings
+- Design for Manufacturability (DFM)
+- Design for Assembly (DFA)
+
+### Simulation & Analysis
+
 - ANSYS Workbench
 - ANSYS Fluent
 - Abaqus (Learning)
+- Static Structural Analysis
+- CFD Analysis
+- Thermal Analysis
 
-### Engineering
-- Mechanical Design
-- Product Development
-- DFM / DFA
-- Engineering Drawings
-- Design Validation
+### Engineering Fundamentals
+
+- Machine Design
+- Strength of Materials
+- Fluid Mechanics
+- Heat Transfer
+- Manufacturing Processes
+
+### Programming
+
+- Python (Basic)
+
+---
+
+## Professional Experience
+
+### Thermal & CFD Analysis Intern
+**Torqon Powerdrives Pvt. Ltd.**
+
+Worked on thermal management studies for electric drivetrain systems through CFD and thermal simulations.
+
+#### Key Contributions
+
+- Conducted 10+ design iterations to improve thermal performance.
+- Performed CFD and thermal simulations using ANSYS Fluent.
+- Modified CAD models and assemblies in SolidWorks to support thermal optimization studies.
+- Evaluated airflow distribution, heat dissipation, and thermal hotspots.
+- Contributed to achieving a significant reduction in peak operating temperature through simulation-driven design improvements.
+
+#### Tools Used
+
+- SolidWorks
+- ANSYS Fluent
+- CFD Analysis
+- Thermal Analysis
+
+🔗 Repository: `thermal-management-engineering-project`
+
+> Project-specific geometry, CAD models, simulation files, operating conditions, and detailed technical results are excluded due to confidentiality requirements.
+
+---
 
 ## Featured Projects
 
-### Floating Plastic Bottle Collector
-Hackathon-winning floating waste collection platform featuring:
-- Conveyor-based collection mechanism
-- Buoyancy analysis
-- Material selection
-- CAD design
+### 📸 Rear Camera Periscopic Attachment
 
-Repository:
-[Floating Plastic Bottle Collector](https://github.com/YOUR_USERNAME/floating_plastic_bottle_collector)
+A customer-driven product development project aimed at improving smartphone selfie quality by enabling the use of rear cameras through a compact periscopic attachment.
 
-## Industrial Experience
+#### Highlights
 
-### Thermal & CFD Analysis Intern
-Torqon Powerdrives Pvt. Ltd.
+- Conducted customer need analysis through surveys.
+- Generated and evaluated multiple design concepts.
+- Performed concept screening and weighted scoring.
+- Developed the final design using Creo and Fusion 360.
 
-- Performed CFD and thermal simulations for electric drivetrain systems.
-- Conducted 10+ design iterations to improve thermal performance.
-- Developed and modified CAD models to support thermal management studies.
+**Tools:** Creo, Fusion 360, Product Development Methodology
 
-*Project details remain confidential and are therefore not publicly available.*
+🔗 Repository: `rear-camera-periscopic-attachment`
 
-Repository:
-[Thermal Management Engineering Project](https://github.com/SanjaySaravanavelR/thermal-management-engineering-project.git)
+---
 
+### ♻️ Floating Plastic Bottle Collector
 
-## Current Focus
+Hackathon-winning floating plastic waste collection platform designed to collect floating debris from water bodies.
 
-- Advanced FEA
-- Composite Analysis
+#### Highlights
+
+- Designed a catamaran-style floating platform.
+- Performed buoyancy and load distribution calculations.
+- Selected materials based on strength, weight, corrosion resistance, and manufacturability.
+- Developed CAD models and engineering documentation.
+
+**Tools:** CAD Design, Engineering Calculations, Product Design
+
+🔗 Repository: `floating_plastic_bottle_collector`
+
+---
+
+## Leadership Experience
+
+### Design Co-Chairperson
+**Society of Mechanical Engineers (SME), CEG**
+
+- Led design activities for technical events and workshops.
+- Developed promotional materials and visual content.
+- Contributed to event branding and member engagement initiatives.
+
+---
+
+## Currently Learning
+
+- Advanced Finite Element Analysis
+- Composite Material Analysis
 - Design Optimization
+- Abaqus
 - Simulation-Driven Product Development
 
-## Connect
+---
 
-📧 saravanavelrsanjay@gmail.com
+## Engineering Philosophy
 
-💼 LinkedIn:
-linkedin.com/in/sanjay-saravanavel-r-605900369
+> Design with purpose. Validate with engineering. Improve through iteration.
+
+---
+
+## Connect With Me
+
+📧 Email: **saravanavelrsanjay@gmail.com**
+
+💼 LinkedIn: **linkedin.com/in/sanjay-saravanavel-r-605900369**
+
+📍 Chennai, India
