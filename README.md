@@ -44,6 +44,10 @@ Torqon Powerdrives Pvt. Ltd.
 
 *Project details remain confidential and are therefore not publicly available.*
 
+Repository:
+[Thermal Management Engineering Project](https://github.com/SanjaySaravanavelR/thermal-management-engineering-project.git)
+
+
 ## Current Focus
 
 - Advanced FEA
